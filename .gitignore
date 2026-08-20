@@ -1,0 +1,6 @@
+.venv/
+cookies/
+.env
+__pycache__/
+*.pyc
+.idea/
